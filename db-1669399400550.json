@@ -1,0 +1,1458 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Comfort Hondy4",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png"
+      ]
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": 1,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever1.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever3.png"
+      ]
+    }
+  ],
+  "trendingProducts": [
+    {
+      "id": 5,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever6.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever7.png"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cantilever Chair",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png",
+        "http://127.0.0.1:5173/src/assets/images/cantilever8.png"
+      ]
+    }
+  ],
+  "topcategories": [
+    {
+      "id": 9,
+      "title": "Comfort Hondy4",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy1.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy2.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy3.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy4.png"
+      ]
+    }
+  ],
+  "leatestProducts": [
+    {
+      "id": 13,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort%20Hondy5.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png",
+        "http://127.0.0.1:5173/src/assets/images/Comfort Hondy6.png"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc.png"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc2.png"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc3.png"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png",
+        "http://127.0.0.1:5173/src/assets/images/miniLc4.png"
+      ]
+    }
+  ],
+  "shopList": [
+    {
+      "id": 19,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2032.png"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2033.png"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2034.png"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2035.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2036.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Comfort Hondy",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": 420,
+      "images": [
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png",
+        "http://127.0.0.1:5173/src/assets/images/Rectangle%2037.png"
+      ]
+    }
+  ],
+  "shop": [
+    {
+      "id": 24,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png",
+        "http://127.0.0.1:5175/src/assets/images/vel.png"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png",
+        "http://127.0.0.1:5175/src/assets/images/ve2.png"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png",
+        "http://127.0.0.1:5175/src/assets/images/ve3.png"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png",
+        "http://127.0.0.1:5175/src/assets/images/watch.png"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png",
+        "http://127.0.0.1:5175/src/assets/images/watch1.png"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone.png"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png",
+        "http://127.0.0.1:5175/src/assets/images/headphone1.png"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png",
+        "http://127.0.0.1:5175/src/assets/images/watch2.png"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png",
+        "http://127.0.0.1:5175/src/assets/images/camera.png"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png",
+        "http://127.0.0.1:5175/src/assets/images/chair1.png"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Vel Elite",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png",
+        "http://127.0.0.1:5175/src/assets/images/ve4.png"
+      ]
+    }
+  ],
+  "shopLeft": [
+    {
+      "id": 36,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2038.png"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2039.png"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2040.png"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "In Nulla",
+      "price": "950",
+      "code": "Code-S235201",
+      "colors": [
+        "#fb2e86",
+        "#3f509e",
+        "#05e6b7"
+      ],
+      "sale": "null",
+      "images": [
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png",
+        "http://127.0.0.1:5174/src/assets/images/Rectangle%2041.png"
+      ]
+    }
+  ]
+}

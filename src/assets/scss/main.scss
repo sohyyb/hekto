@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+$red: #fb2e86;
+$navy: #3f509e;
+$aqua: #05e6b7;
+$gray: #afafaf;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif !important;
+}
+button {
+  cursor: pointer;
+}
+.n-tabs-tab--active,
+.n-tabs-tab:hover {
+  color: #3f509e !important;
+}
+.n-tabs-bar {
+  background-color: $navy !important;
+}
+@import "components/navs";
+@import "components/product";
+@import "components/leatestProducts";
+@import "components/footer";
+@import "components/acceoris";
+@import "components/ShopList";
+@import "components/ShopLeft";
+@import "pages/home";
+@import "pages/Shop";
+@import "pages/ShopList";
+@import "pages/ShopLeft";
+@import "pages/productsDetils";
+@import "pages/shoppingCart";
+@import "pages/completedOrders";
+@import "pages/login";

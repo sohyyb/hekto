@@ -1,0 +1,78 @@
+.footer {
+  background-color: #efeded;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin-top: 30px;
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+    display: block;
+  }
+  .sign {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    .signUp {
+      display: flex;
+      input {
+        padding: 6px;
+        border: none;
+        outline: none;
+      }
+      button {
+        padding: 6px;
+        color: white;
+        background-color: #fb2e86;
+        border: none;
+        width: 100px;
+        border-radius: 4px;
+      }
+    }
+    .address {
+      color: #afafaf;
+      line-height: 1.9em;
+    }
+  }
+  .catagories {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    .link {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      a {
+        color: #3f509e;
+        text-decoration: none;
+      }
+    }
+  }
+  .customerCare {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    .link {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      a {
+        color: #3f509e;
+        text-decoration: none;
+      }
+    }
+  }
+  .pages {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    .link {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      a {
+        color: #3f509e;
+        text-decoration: none;
+      }
+    }
+  }
+}

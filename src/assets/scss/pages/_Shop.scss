@@ -1,0 +1,41 @@
+.shopGrid {
+  margin-left: 175px;
+  margin-top: 26px;
+  h1 {
+    color: $navy;
+    @media screen and (max-width: 768px) {
+      width: 300px;
+    }
+  }
+  .link {
+    display: flex;
+    gap: 6px;
+    a {
+      text-decoration: none;
+      &:hover {
+        color: $red;
+      }
+    }
+  }
+}
+.clicked {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 250px;
+  padding: 10px;
+  position: absolute;
+  ul {
+    li {
+      text-decoration: none;
+      list-style: none;
+      &:hover {
+        color: #fb2e86;
+        text-decoration: underline #fb2e86;
+      }
+    }
+  }
+}
+.router-link {
+  text-decoration: none;
+}

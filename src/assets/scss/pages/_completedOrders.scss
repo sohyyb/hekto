@@ -1,0 +1,47 @@
+.completedOrders {
+  margin-left: 175px;
+  margin-top: 26px;
+  h1 {
+    color: $navy;
+  }
+  .link {
+    display: flex;
+    gap: 6px;
+    a {
+      text-decoration: none;
+      &:hover {
+        color: $red;
+      }
+    }
+  }
+}
+.done {
+  display: flex;
+  justify-content: center;
+  //   align-items: center;
+  margin-top: 75px;
+  gap: 50px;
+  img {
+    height: 60px;
+    width: 60px;
+  }
+  .desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 500px;
+    p {
+      color: $gray;
+    }
+    button {
+      background-color: $red;
+      color: white;
+      border: none;
+      width: 150px;
+      padding: 16px;
+      cursor: pointer;
+    }
+  }
+}
