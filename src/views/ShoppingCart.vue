@@ -16,30 +16,28 @@
                 <h1>Quantity</h1>
                 <h1>Total</h1>
             </div>
-            <div class="Product" v-for="n in 6">
+            <div class="Product" v-for="product in cartProducts">
                 <div class="images">
                     <div class="image">
-                        <img src="../assets/images/bag.png" alt="">
+                        <img :src="product.images[0]" alt="">
                         <div class="Desc">
-                            <p class="Title"> Ut Diam Vel</p>
-                            <p class="Color">Red</p>
-                            <p class="size">Size: XL</p>
+                            <p class="Title"> {{ product.title }}</p>
                         </div>
                     </div>
                 </div>
                 <div class="Price">
-                    <p>${{ price }} </p>
+                    <p>${{ product.price }} </p>
                 </div>
                 <div class="quantity">
                     <div class="buttons">
-                        <button @click.prevent="count > 1 && count--" :disabled="count == 1 ? true : false"
-                            class="decrease">-</button>
-                        <p>{{ count }}</p>
-                        <button @click.prevent="count++">+</button>
+                        <button @click.prevent="store.decreaseQuantity(product.id)"
+                            :disabled="product.quantity == 1 ? true : false" class="decrease">-</button>
+                        <p>{{ product.quantity }}</p>
+                        <button @click.prevent="store.increaseQuantity(product.id)">+</button>
                     </div>
                 </div>
                 <div class="total">
-                    <p>${{ price * count }}</p>
+                    <p>${{ product.price * product.quantity }}</p>
                 </div>
             </div>
         </div>
@@ -47,11 +45,17 @@
             <h1>Cart Total</h1>
             <div class="subTotal">
                 <p>Subtotals:</p>
-                <p>$220</p>
+                <p>${{ cartProducts.reduce((acc, product) => {
+                        return acc += +product.price * product.quantity
+                    }, 0)
+                }}</p>
             </div>
             <div class="Totals">
                 <p>Totals:</p>
-                <p>$1000</p>
+                <p>${{ cartProducts.reduce((acc, product) => {
+                        return acc += +product.price * product.quantity
+                    }, 0)
+                }}</p>
             </div>
             <div class="shipping">
                 <n-icon :size="10" color="white" class="check">
@@ -64,13 +68,36 @@
     </div>
     <Footer />
 </template>
-<script setup>
+<script async setup>
 import navs from '@/components/navs.vue'
 import Footer from '@/components/footer.vue'
 import { Check } from '@vicons/tabler'
 import { NIcon } from "naive-ui"
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
+import { useCartStore } from '../stores/cart';
+import axios from 'axios';
+const store = useCartStore()
 const count = ref(1)
 const price = ref(120)
 const total = ref(price)
+const cartProducts = ref([])
+const allProducts = await axios.get('http://localhost:3000/items')
+
+function readLoop(allp) {
+    cartProducts.value = []
+    allProducts.data.forEach(product => {
+        store.products.forEach(storeProduct => {
+            if (storeProduct.id == product.id) {
+                cartProducts.value.push({ ...product, quantity: storeProduct.quantity })
+            }
+        })
+    })
+}
+readLoop(store.products)
+watch(() => store.products, (newValue, oldValue) => {
+    console.log("changed");
+    readLoop(newValue);
+    return true
+})
+
 </script>

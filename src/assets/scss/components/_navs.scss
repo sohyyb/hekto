@@ -56,13 +56,18 @@
       gap: 6px;
       align-items: center;
       text-align: center;
-      background-color: #fb2e86;
       color: white;
       input {
         border: 1px solid #ccc;
         padding: 3px;
       }
-      i {
+      button {
+        background-color: #fb2e86;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        padding: 6px 7px;
+        display: flex;
         align-items: center;
       }
     }

@@ -25,20 +25,20 @@
     </div>
     <h1 class="headEcommerce ">Ecommerce Acceoris & Fashion</h1>
     <div class="items">
-        <shoplist :items="shopList" />
+        <shoplist :items="shopListx" />
     </div>
     <Footer />
 </template>
 <script async setup>
 import navs from '@/components/navs.vue'
 import Footer from '@/components/footer.vue'
-import shoplist from '@/components/shoplist.vue'
+import shoplist from '@/components/shopList.vue'
 import { ref } from 'vue';
 import axios from 'axios'
 const showNavs = ref(false)
-const shopList = ref([])
+const shopListx = ref([])
 const getshopList = await axios.get("http://localhost:3000/shopList")
-shopList.value = getshopList.data
+shopListx.value = getshopList.data
 </script>
 <style>
 .v-enter-active,

@@ -34,7 +34,7 @@
                     <p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto dolor
                         opti</p>
                     <div class="icons">
-                        <n-icon>
+                        <n-icon @click.prevent="addCart(filteredProduct[0].id)">
                             <ShoppingCart />
                         </n-icon>
                         <n-icon>
@@ -104,7 +104,8 @@ import axios from 'axios'
 import { ref } from 'vue'
 import router from '../router'
 import { useRoute } from 'vue-router'
-
+import { useCartStore } from '../stores/cart'
+const store = useCartStore()
 const id = useRoute().params.id;
 const product = ref([])
 const getProductDetails = await axios.get('http://localhost:3000/items')
@@ -113,4 +114,7 @@ const filteredProduct = getProductDetails.data.filter(item => {
         return item;
     }
 })
+const addCart = (id) => {
+    store.addProducts(id)
+}
 </script>

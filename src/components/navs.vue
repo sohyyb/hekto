@@ -63,9 +63,11 @@
             </div>
             <div class="search">
                 <input type="text">
-                <n-icon>
-                    <Search />
-                </n-icon>
+                <button>
+                    <n-icon>
+                        <Search />
+                    </n-icon>
+                </button>
             </div>
         </div>
     </div>

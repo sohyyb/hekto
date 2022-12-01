@@ -3,7 +3,7 @@ import Home from "../views/Home.vue";
 import Shop from "../views/Shop.vue";
 import ShopList from "../views/ShopList.vue";
 import ShopLeft from "../views/ShopLeft.vue";
-ifixmport ProductDetails from "../views/ProductDetails.vue";
+import ProductDetails from "../views/ProductDetails.vue";
 import ShoppingCart from "../views/ShoppingCart.vue";
 import CompletedOrders from "../views/CompletedOrders.vue";
 import Login from "../views/Login.vue";

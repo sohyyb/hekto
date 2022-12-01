@@ -76,14 +76,19 @@ button {
   gap: 6px;
   align-items: center;
   text-align: center;
-  background-color: #fb2e86;
   color: white;
 }
 .container .head .search input {
   border: 1px solid #ccc;
   padding: 3px;
 }
-.container .head .search i {
+.container .head .search button {
+  background-color: #fb2e86;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 6px 7px;
+  display: flex;
   align-items: center;
 }
 
@@ -125,6 +130,11 @@ button {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+.infos .product-card .router-link:hover {
+  transform: translateY(-10px);
+  transition: 0.3s;
+  background-color: rgba(175, 175, 175, 0.2392156863);
 }
 .infos .code {
   color: #3f509e;
