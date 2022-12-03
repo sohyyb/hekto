@@ -26,7 +26,7 @@
         </n-tabs>
     </div>
     <h1 class="shopex">What Shopex Offer</h1>
-    <div class="cards">
+    <!-- <div class="cards">
         <div class="card">
             <img src="/images/free-delivery 1.png" alt="">
             <p class="work">24/7 support</p>
@@ -51,7 +51,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi maiores blanditiis, facere
             </p>
         </div>
-    </div>
+    </div> -->
     <div class="uniqueProducts">
         <img src="/images/Home-Stylish.png" alt="">
         <div class="head">
