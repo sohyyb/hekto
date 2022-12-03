@@ -97,25 +97,25 @@
                         <p>Shop Now</p>
                     </router-link>
                 </div>
-                <img src="/images/image 1161.png" alt="">
+                <!-- <img src="/images/image 1161.png" alt=""> -->
             </div>
             <div class="chairs">
                 <div class="chair">
-                    <img src="/images/image 30.png" alt="">
+                    <!-- <img src="/images/image 30.png" alt=""> -->
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
                     </div>
                 </div>
                 <div class="chair">
-                    <img src="/images/image 19.png" alt="">
+                    <!-- <img src="/images/image 19.png" alt=""> -->
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
                     </div>
                 </div>
                 <div class="chair">
-                    <img src="/images/image 28.png" alt="">
+                    <!-- <img src="/images/image 28.png" alt=""> -->
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
@@ -178,7 +178,7 @@
                                 <button>Shop Now</button>
                             </router-link>
                         </div>
-                        <img src="/images/tortuga-01-b 1.png" alt="">
+                        <!-- <img src="/images/tortuga-01-b 1.png" alt=""> -->
                     </div>
                 </n-tab-pane>
                 <n-tab-pane name="Plastic Chair" tab="Plastic Chair">
@@ -231,7 +231,7 @@
                                 <button>Shop Now</button>
                             </router-link>
                         </div>
-                        <img src="/images/Comfort Hondy3.png" alt="">
+                        <!-- <img src="/images/Comfort Hondy3.png" alt=""> -->
                     </div>
                 </n-tab-pane>
                 <n-tab-pane name="Sofa Collection" tab="Sofa Collection">
