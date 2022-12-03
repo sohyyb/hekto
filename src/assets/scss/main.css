@@ -27,6 +27,12 @@ button {
   height: 44px;
   align-items: center;
 }
+@media screen and (max-width: 768px) {
+  .container .info {
+    flex-wrap: wrap;
+    height: auto;
+  }
+}
 .container .info .mail {
   display: flex;
   gap: 6px;
@@ -58,6 +64,11 @@ button {
   align-items: center;
   justify-content: space-around;
   padding: 16px;
+}
+@media screen and (max-width: 768px) {
+  .container .head {
+    flex-wrap: wrap;
+  }
 }
 .container .head .navs {
   display: flex;

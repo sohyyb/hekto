@@ -6,6 +6,10 @@
     justify-content: space-around;
     height: 44px;
     align-items: center;
+    @media screen and (max-width: 768px) {
+      flex-wrap: wrap;
+      height: auto;
+    }
     .mail {
       display: flex;
       gap: 6px;
@@ -38,6 +42,9 @@
     align-items: center;
     justify-content: space-around;
     padding: 16px;
+    @media screen and (max-width: 768px) {
+      flex-wrap: wrap;
+    }
     .navs {
       display: flex;
       align-items: center;

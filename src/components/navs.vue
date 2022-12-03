@@ -42,13 +42,7 @@
                         <user />
                     </n-icon>
                 </router-link>
-                <router-link to="/login">
-                    Wishlist
-                    <n-icon>
-                        <Heart />
-                    </n-icon>
-                </router-link>
-                <n-icon class="ShoppingCart" size="24">
+                <n-icon class="ShoppingCart" size="22">
                     <ShoppingCart />
                 </n-icon>
             </div>
