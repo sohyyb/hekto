@@ -63,7 +63,9 @@
                 </n-icon>
                 <p>shipping & takes calculated at checkout</p>
             </div>
-            <button>proceed to checkout</button>
+            <router-link to="/completed-order">
+                <button>proceed to checkout</button>
+            </router-link>
         </div>
     </div>
     <Footer />

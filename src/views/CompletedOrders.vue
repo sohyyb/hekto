@@ -9,7 +9,7 @@
         </div>
     </div>
     <div class="done">
-        <img src="../assets/images/clock1.png" alt="">
+        <img src="/images/clock1.png" alt="">
         <div class="desc">
             <n-icon color="#fb2e86" size="50px">
                 <Check />
@@ -18,7 +18,9 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis impedit, molestias libero dolore
                 possimus quisquam mollitia hic dolorem fugiat sunt. Tempora ex ratione laborum et fugit dolorum
                 quibusdam aspernatur ea!</p>
-            <button>Continue Shopping</button>
+            <router-link to="/">
+                <button>Continue Shopping</button>
+            </router-link>
         </div>
     </div>
     <Footer />

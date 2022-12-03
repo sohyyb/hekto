@@ -121,6 +121,9 @@
       display: flex;
       gap: 16px;
       font-size: 20px;
+      .search {
+        cursor: pointer;
+      }
     }
     .lorem {
       color: #afafaf;

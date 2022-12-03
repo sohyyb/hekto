@@ -34,7 +34,7 @@
                     <p class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto dolor
                         opti</p>
                     <div class="icons">
-                        <n-icon @click.prevent="addCart(filteredProduct[0].id)">
+                        <n-icon @click.prevent="addCart(filteredProduct[0].id)" class="search">
                             <ShoppingCart />
                         </n-icon>
                         <n-icon>

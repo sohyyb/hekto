@@ -1,13 +1,13 @@
 <template>
     <navs />
     <div class="header">
-        <img src="../assets/images/lamb.svg" alt="" class="lamb">
+        <img src="/images/lamb.svg" alt="" class="lamb">
         <div class="desc">
             <p>Best Furniture For Your Castle...</p>
             <h1>New Furniture Collection Trends In 2022</h1>
             <button>Shop Now</button>
         </div>
-        <img src="../assets/images/discount.svg" alt="" class="discount">
+        <img src="/images/discount.svg" alt="" class="discount">
     </div>
     <h1 class="featuredProducts">Featured Products</h1>
     <Product :items="featuredProducts" />
@@ -28,32 +28,32 @@
     <h1 class="shopex">What Shopex Offer</h1>
     <div class="cards">
         <div class="card">
-            <img src="../assets/images/free-delivery 1.png" alt="">
+            <img src="/images/free-delivery 1.png" alt="">
             <p class="work">24/7 support</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi maiores blanditiis, facere
             </p>
         </div>
         <div class="card">
-            <img src="../assets/images/cashback 1.png" alt="">
+            <img src="/images/cashback 1.png" alt="">
             <p class="work">24/7 support</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi maiores blanditiis, facere
             </p>
         </div>
         <div class="card">
-            <img src="../assets/images/Group.png" alt="">
+            <img src="/images/Group.png" alt="">
             <p class="work">24/7 support</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi maiores blanditiis, facere
             </p>
         </div>
         <div class="card">
-            <img src="../assets/images/24-hours-support 1.png" alt="">
+            <img src="/images/24-hours-support 1.png" alt="">
             <p class="work">24/7 support</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi maiores blanditiis, facere
             </p>
         </div>
     </div>
     <div class="uniqueProducts">
-        <img src="../assets/images/Home-Stylish.png" alt="">
+        <img src="/images/Home-Stylish.png" alt="">
         <div class="head">
             <h1>Unique Featuers Of Leatest & Trending Products</h1>
             <div class="des">
@@ -88,7 +88,7 @@
                         <p>Shop Now</p>
                     </router-link>
                 </div>
-                <img src="../assets/images/clock.png" alt="">
+                <img src="/images/clock.png" alt="">
             </div>
             <div class="product">
                 <div class="sale">
@@ -97,25 +97,25 @@
                         <p>Shop Now</p>
                     </router-link>
                 </div>
-                <img src="../assets/images/image 1161.png" alt="">
+                <img src="/images/image 1161.png" alt="">
             </div>
             <div class="chairs">
                 <div class="chair">
-                    <img src="../assets/images/image 30.png" alt="">
+                    <img src="/images/image 30.png" alt="">
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
                     </div>
                 </div>
                 <div class="chair">
-                    <img src="../assets/images/image 19.png" alt="">
+                    <img src="/images/image 19.png" alt="">
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
                     </div>
                 </div>
                 <div class="chair">
-                    <img src="../assets/images/image 28.png" alt="">
+                    <img src="/images/image 28.png" alt="">
                     <div class="seatChair">
                         <p>Executive Seat chair</p>
                         <p class="ex-price">$320</p>
@@ -178,7 +178,7 @@
                                 <button>Shop Now</button>
                             </router-link>
                         </div>
-                        <img src="../assets/images/tortuga-01-b 1.png" alt="">
+                        <img src="/images/tortuga-01-b 1.png" alt="">
                     </div>
                 </n-tab-pane>
                 <n-tab-pane name="Plastic Chair" tab="Plastic Chair">
@@ -231,7 +231,7 @@
                                 <button>Shop Now</button>
                             </router-link>
                         </div>
-                        <img src="../assets/images/Comfort Hondy3.png" alt="">
+                        <img src="/images/Comfort Hondy3.png" alt="">
                     </div>
                 </n-tab-pane>
                 <n-tab-pane name="Sofa Collection" tab="Sofa Collection">
@@ -284,7 +284,7 @@
                                 <button>Shop Now</button>
                             </router-link>
                         </div>
-                        <img src="../assets/images/chair1.png" alt="">
+                        <img src="/images/chair1.png" alt="">
                     </div>
                 </n-tab-pane>
             </n-tabs>
@@ -322,4 +322,3 @@ const topCategoriesProducts = ref([])
 const gettopCategoriesProducts = await axios.get('http://localhost:3000/topCategories');
 topCategoriesProducts.value = gettopCategoriesProducts.data
 </script>
-

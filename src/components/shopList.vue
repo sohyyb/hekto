@@ -29,7 +29,7 @@
                     </n-icon>
                 </div>
                 <div class="icons">
-                    <n-icon @click.prevent="addCart(item.id)">
+                    <n-icon @click.prevent="addCart(item.id)" class="search">
                         <ShoppingCart />
                     </n-icon>
                     <n-icon>
