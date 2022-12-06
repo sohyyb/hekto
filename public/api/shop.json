@@ -1,0 +1,170 @@
+[
+  {
+    "id": 24,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/vel.png",
+      "https://hekto-app.vercel.app/images/vel.png",
+      "https://hekto-app.vercel.app/images/vel.png",
+      "https://hekto-app.vercel.app/images/vel.png"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/vel2.png",
+      "https://hekto-app.vercel.app/images/vel2.png",
+      "https://hekto-app.vercel.app/images/vel2.png",
+      "https://hekto-app.vercel.app/images/vel2.png"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/vel3.png",
+      "https://hekto-app.vercel.app/images/vel3.png",
+      "https://hekto-app.vercel.app/images/vel3.png",
+      "https://hekto-app.vercel.app/images/vel3.png"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/vel4.png",
+      "https://hekto-app.vercel.app/images/vel4.png",
+      "https://hekto-app.vercel.app/images/vel4.png",
+      "https://hekto-app.vercel.app/images/vel4.png"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/watch.png",
+      "https://hekto-app.vercel.app/images/watch.png",
+      "https://hekto-app.vercel.app/images/watch.png",
+      "https://hekto-app.vercel.app/images/watch.png"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/watch1.png",
+      "https://hekto-app.vercel.app/images/watch1.png",
+      "https://hekto-app.vercel.app/images/watch1.png",
+      "https://hekto-app.vercel.app/images/watch1.png"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/headphone.png",
+      "https://hekto-app.vercel.app/images/headphone.png",
+      "https://hekto-app.vercel.app/images/headphone.png",
+      "https://hekto-app.vercel.app/images/headphone.png"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/headphone1.png",
+      "https://hekto-app.vercel.app/images/headphone1.png",
+      "https://hekto-app.vercel.app/images/headphone1.png",
+      "https://hekto-app.vercel.app/images/headphone1.png"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/watch2.png",
+      "https://hekto-app.vercel.app/images/watch2.png",
+      "https://hekto-app.vercel.app/images/watch2.png",
+      "https://hekto-app.vercel.app/images/watch2.png"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/camera.png",
+      "https://hekto-app.vercel.app/images/camera.png",
+      "https://hekto-app.vercel.app/images/camera.png",
+      "https://hekto-app.vercel.app/images/camera.png"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/chair1.png",
+      "https://hekto-app.vercel.app/images/chair1.png",
+      "https://hekto-app.vercel.app/images/chair1.png",
+      "https://hekto-app.vercel.app/images/chair1.png"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Vel Elite",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/ve4.png",
+      "https://hekto-app.vercel.app/images/ve4.png",
+      "https://hekto-app.vercel.app/images/ve4.png",
+      "https://hekto-app.vercel.app/images/ve4.png"
+    ]
+  }
+]

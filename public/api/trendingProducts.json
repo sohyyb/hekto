@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5,
+    "title": "Cantilever Chair",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/cantilever5.png",
+      "https://hekto-app.vercel.app/images/cantilever5.png",
+      "https://hekto-app.vercel.app/images/cantilever5.png",
+      "https://hekto-app.vercel.app/images/cantilever5.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cantilever Chair",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/cantilever6.png",
+      "https://hekto-app.vercel.app/images/cantilever6.png",
+      "https://hekto-app.vercel.app/images/cantilever6.png",
+      "https://hekto-app.vercel.app/images/cantilever6.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cantilever Chair",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/cantilever7.png",
+      "https://hekto-app.vercel.app/images/cantilever7.png",
+      "https://hekto-app.vercel.app/images/cantilever7.png",
+      "https://hekto-app.vercel.app/images/cantilever7.png"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cantilever Chair",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/cantilever8.png",
+      "https://hekto-app.vercel.app/images/cantilever8.png",
+      "https://hekto-app.vercel.app/images/cantilever8.png",
+      "https://hekto-app.vercel.app/images/cantilever8.png"
+    ]
+  }
+]

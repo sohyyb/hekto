@@ -1,0 +1,86 @@
+[
+  {
+    "id": 13,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
+      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/miniLc.png",
+      "https://hekto-app.vercel.app/images/miniLc.png",
+      "https://hekto-app.vercel.app/images/miniLc.png",
+      "https://hekto-app.vercel.app/images/miniLc.png"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/miniLc2.png",
+      "https://hekto-app.vercel.app/images/miniLc2.png",
+      "https://hekto-app.vercel.app/images/miniLc2.png",
+      "https://hekto-app.vercel.app/images/miniLc2.png"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/miniLc3.png",
+      "https://hekto-app.vercel.app/images/miniLc3.png",
+      "https://hekto-app.vercel.app/images/miniLc3.png",
+      "https://hekto-app.vercel.app/images/miniLc3.png"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Comfort Hondy",
+    "price": "950",
+    "code": "Code-S235201",
+    "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
+    "sale": "null",
+    "images": [
+      "https://hekto-app.vercel.app/images/miniLc4.png",
+      "https://hekto-app.vercel.app/images/miniLc4.png",
+      "https://hekto-app.vercel.app/images/miniLc4.png",
+      "https://hekto-app.vercel.app/images/miniLc4.png"
+    ]
+  }
+]
