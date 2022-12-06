@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/vel.png",
-      "https://hekto-app.vercel.app/images/vel.png",
-      "https://hekto-app.vercel.app/images/vel.png",
-      "https://hekto-app.vercel.app/images/vel.png"
+      "/images/vel.png",
+      "/images/vel.png",
+      "/images/vel.png",
+      "/images/vel.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/vel2.png",
-      "https://hekto-app.vercel.app/images/vel2.png",
-      "https://hekto-app.vercel.app/images/vel2.png",
-      "https://hekto-app.vercel.app/images/vel2.png"
+      "/images/vel2.png",
+      "/images/vel2.png",
+      "/images/vel2.png",
+      "/images/vel2.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/vel3.png",
-      "https://hekto-app.vercel.app/images/vel3.png",
-      "https://hekto-app.vercel.app/images/vel3.png",
-      "https://hekto-app.vercel.app/images/vel3.png"
+      "/images/vel3.png",
+      "/images/vel3.png",
+      "/images/vel3.png",
+      "/images/vel3.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/vel4.png",
-      "https://hekto-app.vercel.app/images/vel4.png",
-      "https://hekto-app.vercel.app/images/vel4.png",
-      "https://hekto-app.vercel.app/images/vel4.png"
+      "/images/vel4.png",
+      "/images/vel4.png",
+      "/images/vel4.png",
+      "/images/vel4.png"
     ]
   },
   {
@@ -63,10 +63,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/watch.png",
-      "https://hekto-app.vercel.app/images/watch.png",
-      "https://hekto-app.vercel.app/images/watch.png",
-      "https://hekto-app.vercel.app/images/watch.png"
+      "/images/watch.png",
+      "/images/watch.png",
+      "/images/watch.png",
+      "/images/watch.png"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/watch1.png",
-      "https://hekto-app.vercel.app/images/watch1.png",
-      "https://hekto-app.vercel.app/images/watch1.png",
-      "https://hekto-app.vercel.app/images/watch1.png"
+      "/images/watch1.png",
+      "/images/watch1.png",
+      "/images/watch1.png",
+      "/images/watch1.png"
     ]
   },
   {
@@ -91,10 +91,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/headphone.png",
-      "https://hekto-app.vercel.app/images/headphone.png",
-      "https://hekto-app.vercel.app/images/headphone.png",
-      "https://hekto-app.vercel.app/images/headphone.png"
+      "/images/headphone.png",
+      "/images/headphone.png",
+      "/images/headphone.png",
+      "/images/headphone.png"
     ]
   },
   {
@@ -105,10 +105,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/headphone1.png",
-      "https://hekto-app.vercel.app/images/headphone1.png",
-      "https://hekto-app.vercel.app/images/headphone1.png",
-      "https://hekto-app.vercel.app/images/headphone1.png"
+      "/images/headphone1.png",
+      "/images/headphone1.png",
+      "/images/headphone1.png",
+      "/images/headphone1.png"
     ]
   },
   {
@@ -119,10 +119,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/watch2.png",
-      "https://hekto-app.vercel.app/images/watch2.png",
-      "https://hekto-app.vercel.app/images/watch2.png",
-      "https://hekto-app.vercel.app/images/watch2.png"
+      "/images/watch2.png",
+      "/images/watch2.png",
+      "/images/watch2.png",
+      "/images/watch2.png"
     ]
   },
   {
@@ -133,10 +133,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/camera.png",
-      "https://hekto-app.vercel.app/images/camera.png",
-      "https://hekto-app.vercel.app/images/camera.png",
-      "https://hekto-app.vercel.app/images/camera.png"
+      "/images/camera.png",
+      "/images/camera.png",
+      "/images/camera.png",
+      "/images/camera.png"
     ]
   },
   {
@@ -147,10 +147,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/chair1.png",
-      "https://hekto-app.vercel.app/images/chair1.png",
-      "https://hekto-app.vercel.app/images/chair1.png",
-      "https://hekto-app.vercel.app/images/chair1.png"
+      "/images/chair1.png",
+      "/images/chair1.png",
+      "/images/chair1.png",
+      "/images/chair1.png"
     ]
   },
   {
@@ -161,10 +161,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/ve4.png",
-      "https://hekto-app.vercel.app/images/ve4.png",
-      "https://hekto-app.vercel.app/images/ve4.png",
-      "https://hekto-app.vercel.app/images/ve4.png"
+      "/images/ve4.png",
+      "/images/ve4.png",
+      "/images/ve4.png",
+      "/images/ve4.png"
     ]
   }
 ]

@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy5.png"
+      "/images/Comfort-Hondy5.png",
+      "/images/Comfort-Hondy5.png",
+      "/images/Comfort-Hondy5.png",
+      "/images/Comfort-Hondy5.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy6.png"
+      "/images/Comfort-Hondy6.png",
+      "/images/Comfort-Hondy6.png",
+      "/images/Comfort-Hondy6.png",
+      "/images/Comfort-Hondy6.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/miniLc.png",
-      "https://hekto-app.vercel.app/images/miniLc.png",
-      "https://hekto-app.vercel.app/images/miniLc.png",
-      "https://hekto-app.vercel.app/images/miniLc.png"
+      "/images/miniLc.png",
+      "/images/miniLc.png",
+      "/images/miniLc.png",
+      "/images/miniLc.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/miniLc2.png",
-      "https://hekto-app.vercel.app/images/miniLc2.png",
-      "https://hekto-app.vercel.app/images/miniLc2.png",
-      "https://hekto-app.vercel.app/images/miniLc2.png"
+      "/images/miniLc2.png",
+      "/images/miniLc2.png",
+      "/images/miniLc2.png",
+      "/images/miniLc2.png"
     ]
   },
   {
@@ -63,10 +63,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/miniLc3.png",
-      "https://hekto-app.vercel.app/images/miniLc3.png",
-      "https://hekto-app.vercel.app/images/miniLc3.png",
-      "https://hekto-app.vercel.app/images/miniLc3.png"
+      "/images/miniLc3.png",
+      "/images/miniLc3.png",
+      "/images/miniLc3.png",
+      "/images/miniLc3.png"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/miniLc4.png",
-      "https://hekto-app.vercel.app/images/miniLc4.png",
-      "https://hekto-app.vercel.app/images/miniLc4.png",
-      "https://hekto-app.vercel.app/images/miniLc4.png"
+      "/images/miniLc4.png",
+      "/images/miniLc4.png",
+      "/images/miniLc4.png",
+      "/images/miniLc4.png"
     ]
   }
 ]

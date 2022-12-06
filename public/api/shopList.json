@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-32.png",
-      "https://hekto-app.vercel.app/images/Rectangle-32.png",
-      "https://hekto-app.vercel.app/images/Rectangle-32.png",
-      "https://hekto-app.vercel.app/images/Rectangle-32.png"
+      "/images/Rectangle-32.png",
+      "/images/Rectangle-32.png",
+      "/images/Rectangle-32.png",
+      "/images/Rectangle-32.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-33.png",
-      "https://hekto-app.vercel.app/images/Rectangle-33.png",
-      "https://hekto-app.vercel.app/images/Rectangle-33.png",
-      "https://hekto-app.vercel.app/images/Rectangle-33.png"
+      "/images/Rectangle-33.png",
+      "/images/Rectangle-33.png",
+      "/images/Rectangle-33.png",
+      "/images/Rectangle-33.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-34.png",
-      "https://hekto-app.vercel.app/images/Rectangle-34.png",
-      "https://hekto-app.vercel.app/images/Rectangle-34.png",
-      "https://hekto-app.vercel.app/images/Rectangle-34.png"
+      "/images/Rectangle-34.png",
+      "/images/Rectangle-34.png",
+      "/images/Rectangle-34.png",
+      "/images/Rectangle-34.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-35.png",
-      "https://hekto-app.vercel.app/images/Rectangle-35.png",
-      "https://hekto-app.vercel.app/images/Rectangle-35.png",
-      "https://hekto-app.vercel.app/images/Rectangle-35.png"
+      "/images/Rectangle-35.png",
+      "/images/Rectangle-35.png",
+      "/images/Rectangle-35.png",
+      "/images/Rectangle-35.png"
     ]
   },
   {
@@ -63,10 +63,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-36.png",
-      "https://hekto-app.vercel.app/images/Rectangle-36.png",
-      "https://hekto-app.vercel.app/images/Rectangle-36.png",
-      "https://hekto-app.vercel.app/images/Rectangle-36.png"
+      "/images/Rectangle-36.png",
+      "/images/Rectangle-36.png",
+      "/images/Rectangle-36.png",
+      "/images/Rectangle-36.png"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": 420,
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-37.png",
-      "https://hekto-app.vercel.app/images/Rectangle-37.png",
-      "https://hekto-app.vercel.app/images/Rectangle-37.png",
-      "https://hekto-app.vercel.app/images/Rectangle-37.png"
+      "/images/Rectangle-37.png",
+      "/images/Rectangle-37.png",
+      "/images/Rectangle-37.png",
+      "/images/Rectangle-37.png"
     ]
   }
 ]

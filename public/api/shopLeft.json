@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-38.png",
-      "https://hekto-app.vercel.app/images/Rectangle-38.png",
-      "https://hekto-app.vercel.app/images/Rectangle-38.png",
-      "https://hekto-app.vercel.app/images/Rectangle-38.png"
+      "/images/Rectangle-38.png",
+      "/images/Rectangle-38.png",
+      "/images/Rectangle-38.png",
+      "/images/Rectangle-38.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-39.png",
-      "https://hekto-app.vercel.app/images/Rectangle-39.png",
-      "https://hekto-app.vercel.app/images/Rectangle-39.png",
-      "https://hekto-app.vercel.app/images/Rectangle-39.png"
+      "/images/Rectangle-39.png",
+      "/images/Rectangle-39.png",
+      "/images/Rectangle-39.png",
+      "/images/Rectangle-39.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-40.png",
-      "https://hekto-app.vercel.app/images/Rectangle-40.png",
-      "https://hekto-app.vercel.app/images/Rectangle-40.png",
-      "https://hekto-app.vercel.app/images/Rectangle-40.png"
+      "/images/Rectangle-40.png",
+      "/images/Rectangle-40.png",
+      "/images/Rectangle-40.png",
+      "/images/Rectangle-40.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Rectangle-41.png",
-      "https://hekto-app.vercel.app/images/Rectangle-41.png",
-      "https://hekto-app.vercel.app/images/Rectangle-41.png",
-      "https://hekto-app.vercel.app/images/Rectangle-41.png"
+      "/images/Rectangle-41.png",
+      "/images/Rectangle-41.png",
+      "/images/Rectangle-41.png",
+      "/images/Rectangle-41.png"
     ]
   }
 ]

@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/cantilever5.png",
-      "https://hekto-app.vercel.app/images/cantilever5.png",
-      "https://hekto-app.vercel.app/images/cantilever5.png",
-      "https://hekto-app.vercel.app/images/cantilever5.png"
+      "/images/cantilever5.png",
+      "/images/cantilever5.png",
+      "/images/cantilever5.png",
+      "/images/cantilever5.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/cantilever6.png",
-      "https://hekto-app.vercel.app/images/cantilever6.png",
-      "https://hekto-app.vercel.app/images/cantilever6.png",
-      "https://hekto-app.vercel.app/images/cantilever6.png"
+      "/images/cantilever6.png",
+      "/images/cantilever6.png",
+      "/images/cantilever6.png",
+      "/images/cantilever6.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/cantilever7.png",
-      "https://hekto-app.vercel.app/images/cantilever7.png",
-      "https://hekto-app.vercel.app/images/cantilever7.png",
-      "https://hekto-app.vercel.app/images/cantilever7.png"
+      "/images/cantilever7.png",
+      "/images/cantilever7.png",
+      "/images/cantilever7.png",
+      "/images/cantilever7.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/cantilever8.png",
-      "https://hekto-app.vercel.app/images/cantilever8.png",
-      "https://hekto-app.vercel.app/images/cantilever8.png",
-      "https://hekto-app.vercel.app/images/cantilever8.png"
+      "/images/cantilever8.png",
+      "/images/cantilever8.png",
+      "/images/cantilever8.png",
+      "/images/cantilever8.png"
     ]
   }
 ]

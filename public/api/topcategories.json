@@ -7,10 +7,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy1.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy1.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy1.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy1.png"
+      "/images/Comfort-Hondy1.png",
+      "/images/Comfort-Hondy1.png",
+      "/images/Comfort-Hondy1.png",
+      "/images/Comfort-Hondy1.png"
     ]
   },
   {
@@ -21,10 +21,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy2.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy2.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy2.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy2.png"
+      "/images/Comfort-Hondy2.png",
+      "/images/Comfort-Hondy2.png",
+      "/images/Comfort-Hondy2.png",
+      "/images/Comfort-Hondy2.png"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy3.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy3.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy3.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy3.png"
+      "/images/Comfort-Hondy3.png",
+      "/images/Comfort-Hondy3.png",
+      "/images/Comfort-Hondy3.png",
+      "/images/Comfort-Hondy3.png"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "colors": ["#fb2e86", "#3f509e", "#05e6b7"],
     "sale": "null",
     "images": [
-      "https://hekto-app.vercel.app/images/Comfort-Hondy4.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy4.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy4.png",
-      "https://hekto-app.vercel.app/images/Comfort-Hondy4.png"
+      "/images/Comfort-Hondy4.png",
+      "/images/Comfort-Hondy4.png",
+      "/images/Comfort-Hondy4.png",
+      "/images/Comfort-Hondy4.png"
     ]
   }
 ]
