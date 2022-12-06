@@ -36,7 +36,7 @@ import Footer from '@/components/footer.vue'
 import { ref } from 'vue';
 import axios from 'axios'
 const shopProducts = ref([])
-const getshopProducts = await axios.get('/api/shop');
+const getshopProducts = await axios.get('/api/shop.json');
 shopProducts.value = getshopProducts.data
 const showNavs = ref(false)
 </script>

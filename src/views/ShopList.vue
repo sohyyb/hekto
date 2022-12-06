@@ -37,7 +37,7 @@ import { ref } from 'vue';
 import axios from 'axios'
 const showNavs = ref(false)
 const shopListx = ref([])
-const getshopList = await axios.get("/api/shopList")
+const getshopList = await axios.get("/api/shopList.json")
 shopListx.value = getshopList.data
 </script>
 <style>
