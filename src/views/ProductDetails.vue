@@ -13,11 +13,11 @@
         <div class="cart">
             <div class="images">
                 <img :src="filteredProduct[0].images[1]" alt="">
-                <img :src="filteredProduct[0].images[2]" alt="">
-                <img :src="filteredProduct[0].images[3]" alt="">
+                <img :src="filteredPr    oduct[0].images[2]" alt="">
+                <img :src="filtered    Product[0].images[3]" alt="">
             </div>
             <div class="cart">
-                <img :src="filteredProduct[0].images[0]" alt="">
+                <img :src="fil    teredProduct[0].images[0]" alt="">
                 <div class="desc">
                     <div class="color">
                         <p>{{ filteredProduct[0].title }}</p>
@@ -108,7 +108,7 @@ import { useCartStore } from '../stores/cart'
 const store = useCartStore()
 const id = useRoute().params.id;
 const product = ref([])
-const getProductDetails = await axios.get('http://localhost:3000/items')
+const getProductDetails = await axios.get('http://localhost:3000/api/items')
 const filteredProduct = getProductDetails.data.filter(item => {
     if (item.id == id) {
         return item;

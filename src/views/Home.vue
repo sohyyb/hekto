@@ -307,18 +307,18 @@ import { NIcon, NTabs, NTabPane } from "naive-ui"
 import axios from 'axios'
 
 const featuredProducts = ref([])
-const getfeaturedProducts = await axios.get('http://localhost:3000/featuredProducts');
+const getfeaturedProducts = await axios.get('http://localhost:3000/api/featuredProducts');
 featuredProducts.value = getfeaturedProducts.data
 
 const leatestProduct = ref([])
-const getleatestProducts = await axios.get('http://localhost:3000/leatestProducts');
+const getleatestProducts = await axios.get('http://localhost:3000/api/leatestProducts');
 leatestProduct.value = getleatestProducts.data
 
 const trendProducts = ref([])
-const gettrendingProducts = await axios.get('http://localhost:3000/trendingProducts');
+const gettrendingProducts = await axios.get('http://localhost:3000/api/trendingProducts');
 trendProducts.value = gettrendingProducts.data
 
 const topCategoriesProducts = ref([])
-const gettopCategoriesProducts = await axios.get('http://localhost:3000/topCategories');
+const gettopCategoriesProducts = await axios.get('http://localhost:3000/api/topCategories');
 topCategoriesProducts.value = gettopCategoriesProducts.data
 </script>

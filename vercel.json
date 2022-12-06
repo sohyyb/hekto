@@ -8,11 +8,5 @@
         "includeFiles": ["api.json"]
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
   ]
 }

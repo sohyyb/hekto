@@ -16,10 +16,10 @@
                 <h1>Quantity</h1>
                 <h1>Total</h1>
             </div>
-            <div class="Product" v-for="product in cartProducts">
+            <div class="Product" v-for="product in cartProduct    s">
                 <div class="images">
                     <div class="image">
-                        <img :src="product.images[0]" alt="">
+                        <img :src="product.    images[0]" alt="">
                         <div class="Desc">
                             <p class="Title"> {{ product.title }}</p>
                         </div>
@@ -46,15 +46,15 @@
             <div class="subTotal">
                 <p>Subtotals:</p>
                 <p>${{ cartProducts.reduce((acc, product) => {
-                        return acc += +product.price * product.quantity
-                    }, 0)
+                return acc += +product.price * product.quantity
+                }, 0)
                 }}</p>
             </div>
             <div class="Totals">
                 <p>Totals:</p>
                 <p>${{ cartProducts.reduce((acc, product) => {
-                        return acc += +product.price * product.quantity
-                    }, 0)
+                return acc += +product.price * product.quantity
+                }, 0)
                 }}</p>
             </div>
             <div class="shipping">
@@ -83,7 +83,7 @@ const count = ref(1)
 const price = ref(120)
 const total = ref(price)
 const cartProducts = ref([])
-const allProducts = await axios.get('http://localhost:3000/items')
+const allProducts = await axios.get('http://localhost:3000/api/items')
 
 function readLoop(allp) {
     cartProducts.value = []
