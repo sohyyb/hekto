@@ -319,6 +319,6 @@ const gettrendingProducts = await axios.get('/api/trendingProducts.json');
 trendProducts.value = gettrendingProducts.data
 
 const topCategoriesProducts = ref([])
-const gettopCategoriesProducts = await axios.get('/api/topCategories.json');
+const gettopCategoriesProducts = await axios.get('/api/topcategories.json');
 topCategoriesProducts.value = gettopCategoriesProducts.data
 </script>
