@@ -108,7 +108,7 @@ import { useCartStore } from '../stores/cart'
 const store = useCartStore()
 const id = useRoute().params.id;
 const product = ref([])
-const getProductDetails = await axios.get('http://localhost:3000/api/items')
+const getProductDetails = await axios.get('/api/items')
 const filteredProduct = getProductDetails.data.filter(item => {
     if (item.id == id) {
         return item;

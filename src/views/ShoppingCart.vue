@@ -83,7 +83,7 @@ const count = ref(1)
 const price = ref(120)
 const total = ref(price)
 const cartProducts = ref([])
-const allProducts = await axios.get('http://localhost:3000/api/items')
+const allProducts = await axios.get('/api/items')
 
 function readLoop(allp) {
     cartProducts.value = []
