@@ -281,7 +281,7 @@
                                 </div>
                             </div>
                             <router-link to="/shop">
-                                <button>Shop Now</button>
+                                <button>Shop Now z</button>
                             </router-link>
                         </div>
                         <img src="/images/chair1.png" alt="">
