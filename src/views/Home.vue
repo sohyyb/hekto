@@ -5,7 +5,9 @@
         <div class="desc">
             <p>Best Furniture For Your Castle...</p>
             <h1>New Furniture Collection Trends In 2022</h1>
-            <button>Shop Now</button>
+            <router-link to="/shop">
+                <button>Shop Now</button>
+            </router-link>
         </div>
         <img src="/images/discount.svg" alt="" class="discount">
     </div>
@@ -69,7 +71,6 @@
                 <p class="inf">All Frames Constructeed With Hardwood Solids And Lamintes</p>
             </div>
             <div class="addToCart">
-                <button>Add To Cart</button>
                 <div class="prices">
                     <p>B&B Italian Sofa</p>
                     <p>$320</p>
@@ -305,7 +306,6 @@ import { onMounted, ref } from 'vue';
 import { Check } from '@vicons/tabler'
 import { NIcon, NTabs, NTabPane } from "naive-ui"
 import axios from 'axios'
-
 const featuredProducts = ref([])
 const getfeaturedProducts = await axios.get('/api/featuredProducts.json');
 featuredProducts.value = getfeaturedProducts.data

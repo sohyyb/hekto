@@ -1,6 +1,6 @@
 <template>
     <navs />
-    <div class="login">
+    <div class="sign">
         <h1>My Account</h1>
         <div class="link">
             <a href="">Home</a>
@@ -23,18 +23,18 @@
             </div>
         </Transition>
     </div>
-    <div class="log">
-        <h1>Login</h1>
-        <p>Please Login Using Account Detalis Bellow</p>
-        <input type="text" placeholder="Email-Address">
-        <input type="text" placeholder="Password">
-        <p>Forgot Your Password?</p>
-        <button>sign In</button>
-        <div class="createAccount">
-            <p>Don,t Have Account?</p>
-            <router-link to="/sign-up">
-
-                <p class="create">Create Account</p>
+    <div class="signUp">
+        <h1>Sign Up</h1>
+        <p>Please Enter Your Infromation</p>
+        <input type="text" placeholder="Full name" v-model="form.name">
+        <input type="text" placeholder="Email-Address" v-model="form.email">
+        <input type="password" placeholder="Password" v-model="form.password">
+        <p>Please Sign Up</p>
+        <button @click="addUser">sign Up</button>
+        <div class="acc">
+            <span>Are You Have An Account?</span>
+            <router-link to="/login">
+                Login
             </router-link>
         </div>
     </div>
@@ -42,18 +42,26 @@
 </template>
 <script setup>
 import navs from '@/components/navs.vue';
-import Footer from '@/components/footer.vue';
+import Footer from '@/components/footer.vue'
 import { ref } from 'vue';
-const showNavs = ref(false)
-</script>
-<style>
-.v-enter-active,
-.v-leave-active {
-    transition: opacity 0.2s ease;
-}
+import axios from "axios"
+import router from "@/router"
 
-.v-enter-from,
-.v-leave-to {
-    opacity: 0;
+const showNavs = ref(false)
+
+const form = ref({
+    name: "",
+    email: "",
+    password: ""
+})
+
+const addUser = async () => {
+    try {
+        const recUser = await axios.post('/auth/register', form.value)
+        router.push('/login')
+    } catch (err) {
+        console.log(err);
+    }
+
 }
-</style>
+</script>

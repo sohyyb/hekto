@@ -1487,4 +1487,59 @@ button {
   border: 1px solid #afafaf;
   width: 230px;
   padding: 10px;
+}
+.log .createAccount {
+  display: flex;
+}
+.log .createAccount .create {
+  color: #fb2e86;
+  cursor: pointer;
+}
+
+.sign {
+  margin-left: 175px;
+  margin-top: 26px;
+}
+.sign h1 {
+  color: #3f509e;
+}
+.sign .link {
+  display: flex;
+  gap: 6px;
+}
+.sign .link a {
+  text-decoration: none;
+}
+.sign .link a:hover {
+  color: #fb2e86;
+}
+
+.signUp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+.signUp p {
+  color: #afafaf;
+}
+.signUp input {
+  border: 1px solid #afafaf;
+  padding: 10px;
+  width: 230px;
+  outline: #afafaf;
+}
+.signUp button {
+  color: white;
+  background-color: #fb2e86;
+  border: 1px solid #afafaf;
+  width: 230px;
+  padding: 10px;
+}
+.signUp .acc {
+  color: #afafaf;
+}
+.signUp .acc a {
+  color: #fb2e86;
 }/*# sourceMappingURL=main.css.map */

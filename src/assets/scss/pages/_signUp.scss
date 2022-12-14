@@ -1,4 +1,4 @@
-.login {
+.sign {
   margin-left: 175px;
   margin-top: 26px;
   h1 {
@@ -15,7 +15,7 @@
     }
   }
 }
-.log {
+.signUp {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -37,11 +37,10 @@
     width: 230px;
     padding: 10px;
   }
-  .createAccount {
-    display: flex;
-    .create {
+  .acc {
+    color: $gray;
+    a {
       color: $red;
-      cursor: pointer;
     }
   }
 }

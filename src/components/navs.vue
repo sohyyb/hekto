@@ -42,16 +42,18 @@
                         <user />
                     </n-icon>
                 </router-link>
-                <n-icon class="ShoppingCart" size="22">
-                    <ShoppingCart />
-                </n-icon>
+                <router-link to="/Shopping-cart">
+                    <n-icon class="ShoppingCart" size="22">
+                        <ShoppingCart />
+                    </n-icon>
+                </router-link>
             </div>
         </div>
         <div class="head">
             <div class="navs">
                 <h1>Hekto</h1>
                 <router-link to="/">Home</router-link>
-                <router-link to="/product-details">Products</router-link>
+                <!-- <router-link to="/product-details">Products</router-link> -->
                 <router-link to="/shop">Shop</router-link>
                 <!-- <router-link to="/contact">Contact</router-link> -->
             </div>

@@ -79,9 +79,6 @@ import { ref, watch } from 'vue';
 import { useCartStore } from '../stores/cart';
 import axios from 'axios';
 const store = useCartStore()
-const count = ref(1)
-const price = ref(120)
-const total = ref(price)
 const cartProducts = ref([])
 const allProducts = await axios.get('/api/items.json')
 
@@ -97,7 +94,6 @@ function readLoop(allp) {
 }
 readLoop(store.products)
 watch(() => store.products, (newValue, oldValue) => {
-    console.log("changed");
     readLoop(newValue);
     return true
 })
